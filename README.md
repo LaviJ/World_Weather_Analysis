@@ -1,4 +1,6 @@
 # World_Weather_Analysis
+Analysis for My Trip for presenting weather data to customers via a search page.
+
 ## 1. The purpose of the World Weather analysis :
 This analysis is done for MyTrip, a travel technology company that specializes in internet related services in hotel and lodging industry. Jack, who is the head of analysis for the user interface team wants data to be collected and presented to customers for via search page which can then be filtered based on their preferred travel criteria in order to find an ideal hotel. 
 We are retrieving the information using API keys from Openweather.org and from google.
